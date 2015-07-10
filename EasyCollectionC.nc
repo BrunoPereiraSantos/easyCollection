@@ -1,4 +1,3 @@
-include <Timer.h>
 
 module EasyCollectionC {
   uses interface Boot;
